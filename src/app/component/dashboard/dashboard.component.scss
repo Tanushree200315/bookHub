@@ -1,0 +1,19 @@
+.card-top{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width:0;
+    word-wrap: break-word;
+    background-clip: border-box;
+   
+    border-radius: 3px;
+}
+.item{
+    img{
+        width: 70px;
+        height: 80px;
+    }
+    margin: 0px 20px;
+    
+    text-align: center;
+}
